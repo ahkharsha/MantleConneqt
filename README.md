@@ -4,7 +4,7 @@
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ahkharsha/MantleConneqt)
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/harsha-kumar-a-271a76203/)
 
-<img src="https://github.com/user-attachments/assets/625c49d8-f64c-4a1a-8184-6f686b8c7a84" alt="logo-white" width="150"/>
+<img src="https://github.com/user-attachments/assets/3dfa6394-f229-4da5-b6eb-18596eb5de8d" alt="logo-white" width="150"/>
 
 ---
 
